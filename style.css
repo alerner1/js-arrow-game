@@ -1,0 +1,14 @@
+#score-num {
+  color: red;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
